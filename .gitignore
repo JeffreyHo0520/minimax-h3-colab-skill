@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.mp4
+*.png
+*.jpg
+*.jpeg
+progress.json
+work_*
+.backup.*
+.vscode/
+.idea/
